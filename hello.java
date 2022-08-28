@@ -3,5 +3,6 @@ public class Hello{
 	{
 		system.out.println("hello World");
 		system.out.println("new");
-		
-	}}
+		system.out.println("new2");
+	}
+}
